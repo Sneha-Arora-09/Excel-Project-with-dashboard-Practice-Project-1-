@@ -11,7 +11,10 @@ The dashboard displays the information needed to quickly assess the sales, custo
 
 ##DataSet Used 
 <a href="https://github.com/Sneha-Arora-09/Excel-Project-with-dashboard-Practice-Project-1-/blob/main/Vrinda%20Store%20Data%20Analysis.xlsx">DataSet Used</a>
-<a href="https://github.com/Sneha-Arora-09/Excel-Project-with-dashboard-Practice-Project-1-/blob/main/Screenshot%202026-09-01%20205723.png">Dashboard View</a>
+
+##Dashboard View 
+<img width="1745" height="637" alt="Screenshot 2026-09-01 205723" src="https://github.com/user-attachments/assets/64eb0789-4047-493a-a876-c37bd25374d9" />
+
 
 The goal of the project was to learn how to perform various operations in Microsoft Excel, including analyzing sales and order information, identifying trends and key insights, visualizing and building charts, comparing the characteristics of different customer segments and sales categories, and building an interactive dashboard in Excel.
 
